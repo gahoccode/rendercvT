@@ -38,7 +38,7 @@ This will generate PDF, PNG, and HTML versions of your CV in the output director
 - PDF: `rendercv_output/CV.pdf`
 - PNG: `rendercv_output/CV.png`
 - HTML: `rendercv_output/CV.html`
-
+- Markdown: `rendercv_output/CV.md`
 ## Customization
 - Edit `CV.yaml` to update your personal information, skills, education, experience, and projects.
 - See [RenderCV documentation](https://docs.rendercv.com/) for advanced formatting and section options.
