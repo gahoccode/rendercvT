@@ -2,11 +2,6 @@
 
 This repository contains the YAML and supporting files for generating a professional CV using [RenderCV](https://rendercv.com).
 
-## Files
-- `CV.yaml` — Main YAML file with all CV sections and data.
-- `.gitignore` — Excludes `resume.md` and rendered output from version control.
-- `resume.md` — (Ignored) Human-readable resume source.
-
 ## Example Usage
 
 ### 1. Install RenderCV
