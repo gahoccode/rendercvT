@@ -1,0 +1,5 @@
+# Ignore the resume markdown file
+resume.md
+
+# Ignore the rendered files
+/rendercv_output

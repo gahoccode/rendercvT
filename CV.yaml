@@ -1,0 +1,296 @@
+cv:
+  name: Le Minh Tam
+  summary: "Results-driven FP&A specialist delivering actionable financial insights that guide strategic decision-making and drive business growth. Skilled in budgeting, forecasting, and financial modeling, transforms complex data into clear, impactful reports. Proficient in Excel with foundational Python and VBA skills for process automation, and a strong communicator in English who effectively conveys critical information to management and leadership."
+  location: Ho Chi Minh City, Vietnam
+  email: tamle.fpa@gmail.com
+  phone: 
+  website: 
+  social_networks:
+    - network: LinkedIn
+      username: tamlefpa
+    - network: GitHub
+      username: gahoccode
+  sections:
+
+    education:
+      - institution: Association for Financial Professionals (AFP)
+        area: Financial Planning & Analysis
+        degree: FPAC
+        date:
+        start_date: 2024-11
+        end_date: 2025-12
+        location: 
+        summary: "Certification - Financial Planning & Analysis Certification (FPAC), GPA: Part 1 Passed"
+        highlights: []
+      - institution: University of South Florida
+        area: Management
+        degree: BSc
+        date:
+        start_date: 2012-09
+        end_date: 2015-12
+        location: 
+        summary: "Bachelor of Science - Management"
+        highlights: []
+      - institution: EF Academy
+        area: International Baccalaureate
+        degree: ""
+        date:
+        start_date: 2009-01
+        end_date: 2011-12
+        location: 
+        summary: "Diploma - International Baccalaureate"
+        highlights: []
+    experience:
+      - company: Phuong Nam General Hospital
+        position: FP&A Specialist
+        date:
+        start_date: 2023-08
+        end_date: 2024-09
+        location: Ho Chi Minh City, Vietnam
+        summary: FP&A Specialist
+        highlights:
+          - Developed financial models to support strategic management and decision-making
+          - Built dashboards and automated reports, saving 50 hours per month
+          - Prepared KPI reports and set KPIs for Sales Team and Doctors
+          - Collaborated with marketing to track revenue and campaign effectiveness
+          - Implemented the Balanced Scorecard framework to align departmental objectives with organizational strategy
+          - Contributed to 30% month-over-month revenue growth through data-driven insights
+          - Collaborated with internal teams to collect business and financial data, and partnered with external stakeholders—including private equity shareholders—to provide financial information and address inquiries regarding financial performance
+      - company: Ho Chi Minh City Public Lighting, JSC
+        position: Technical Department Project Coordinator
+        date:
+        start_date: 2019-11
+        end_date: 2023-08
+        location: Ho Chi Minh City, Vietnam
+        summary: Technical Department Project Coordinator
+        highlights:
+          - Evaluated and validated compensation claims for public infrastructure, ensuring timely and accurate resolution of incidents related to traffic accidents and asset loss
+          - Interpreted and coordinated technical communication with foreign experts on public lighting construction projects
+          - Collaborated with stakeholders, including personnel from the Department of Foreign Affairs, to support project coordination, funding, and execution
+          - Prepared comprehensive tender documents and supporting materials to secure construction contracts
+          - Provided administrative support related to human resources within the department
+      - company: Mirae Asset Securities
+        position: Stockbroker
+        date:
+        start_date: 2018-10
+        end_date: 2021-01
+        location: Ho Chi Minh City, Vietnam
+        summary: Stockbroker
+        highlights:
+          - Assessed clients' investment needs and risk tolerance
+          - Assisted clients in identifying investment opportunities
+          - Searched and developed a system of individual clients
+          - Assessed clients' investment needs and risk appetites to address issues like capital allocation and holding periods
+          - Assisted clients in identifying investment opportunities and recognizing market risks in various economic phases
+          - Created market bulletins, industry analysis reports, and provided forecasts
+      - company: AMIGOS MEDIA & ENTERTAINMENT, LLC
+        position: Co-Founder
+        date:
+        start_date: 2017-01
+        end_date: 2020-01
+        location: Ho Chi Minh City, Vietnam
+        summary: Co-Founder
+        highlights:
+          - Cultivated and maintained strong relationships with clients and strategic partners
+          - Led service presentations and negotiated project terms to secure new business opportunities
+          - Ensured project outcomes aligned with client objectives and brand direction
+          - Directed the creative vision for projects, guiding teams in delivering high-quality, impactful content
+          - Proactively researched and applied innovative storytelling techniques and emerging media technologies
+          - Oversaw budgeting, revenue generation, and cost control to maintain financial sustainability
+          - Identified opportunities to improve operational efficiency and resource allocation
+      - company: Sao Mai Electricity, JSC
+        position: Administrative and HR Assistant
+        date:
+        start_date: 2016-01
+        end_date: 2017-01
+        location: Vietnam
+        summary: Administrative and HR Assistant
+        highlights:
+          - Supported HR operations by managing employee records, onboarding procedures, and compliance documentation
+          - Oversaw attendance tracking, ensuring accurate reporting for payroll processing
+          - Assisted in payroll administration, verifying work hours, deductions, and salary disbursements
+          - Assisted in recruitment activities such as screening resumes and scheduling interviews
+          - Assisted in implementing new ERP applications in the enterprise
+      - company: Sao Mai Electricity, JSC
+        position: Bilingual Training Coordinator
+        date:
+        start_date: 2016-01
+        end_date: 2017-01
+        location: Vietnam
+        summary: Bilingual Training Coordinator
+        highlights:
+          - Supported delivery of technical training programs in collaboration with foreign experts
+          - Provided interpretation and contributed to localization of training materials for power sector staff
+    projects:
+      - name: Hospital Information System (HIS) Implementation
+        summary: Tested the HIS financial reporting module as a member of the PMO team to ensure it met requirements for sales revenue reports, including departmental breakdowns and KPI/management reporting metrics
+      - name: Reporting Process Automation
+        summary: Leveraged Python, VBA, and AI-based automation to streamline reporting processes, resulting in a monthly time savings of 50 hours
+      - name: Python-Based AI Financial Dashboard
+        summary: Developed a Python-based web dashboard leveraging AI to monitor price trends in stocks, commodities, and key financial indicators, supporting market analysis and informed investment decisions
+      - name: Financial Data Structure Redesign
+        summary: Adapted and reorganized the chart of accounts to comply with Group standards while addressing the specific operational needs of the branch, reducing month-end closing rework by 15 hours per month
+      - name: KPI Dashboard Development
+        summary: Developed an Excel dashboard to track revenue by department and patient census, contributing to 30% month-over-month revenue growth
+      - name: HR Payroll ERP Module Implementation
+        summary: Facilitated collaboration between internal accountants and outsourced developers to resolve system issues and ensure accurate payroll processing. Supported implementation and testing of new ERP applications related to human resources
+    skills:
+      - label: Excel
+        details: Power Query, Power BI
+      - label: Financial Analysis
+        details: Financial Modeling, Forecast, Risk Management, Budgeting
+      - label: Communication
+        details: English, Vietnamese, Professional Writing
+      - label: Programming Automation
+        details: Visualization, Data Processing, SQL, VBA, Power Query
+      - label: Financial Accounting
+        details: IFRS, GAAP, VAS
+
+        date: 2004-01
+
+design:
+  theme: classic
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Source Sans 3
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: false
+    use_external_link_icon: true
+  header:
+    name_font_family: Source Sans 3
+    name_font_size: 30pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: Source Sans 3
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_family: Source Sans 3
+    font_size: 1.4em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, AREA'
+      degree_column_template: '**DEGREE**'
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column_first_row_template: '**COMPANY**, POSITION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-04-25'
+  render_command:
+  bold_keywords: []
